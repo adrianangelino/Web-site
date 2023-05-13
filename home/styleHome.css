@@ -1,0 +1,22 @@
+body{
+    margin: 0%;
+    width: 100%;
+    height: 600px;
+    overflow-x: hidden !important;
+}
+
+img{
+    max-width: 100%;
+}
+
+header{
+    margin: 0%;
+    padding: 0%;
+}
+
+.fundo{
+    margin: 0%;    
+    padding: 0%;
+    
+}
+
